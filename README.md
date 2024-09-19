@@ -1,5 +1,5 @@
 
-# Hi there 👋, I'm Daryoosh Dehestani
+# Hi there 👋, I'm Daryoosh!
 
 Data scientist with a unique blend of philosophy, politics, and economics. Applying AI and data engineering to tackle real-world problems. 
 
