@@ -1,23 +1,16 @@
 
 # Hi there 👋, I'm Daryoosh Dehestani
 
-I'm a data scientist with a unique blend of philosophy, politics, and economics, which shapes my approach to problem-solving—methodical, critical, and innovative. My data science journey took me through hands-on programs and bootcamps, where I applied AI and data engineering to tackle real-world challenges.
+Data scientist with a unique blend of philosophy, politics, and economics. Applying AI and data engineering to tackle real-world problems. 
 
-A Kantian at heart, I’m driven by reason and ethics—with a touch of Gramsci and Adorno, always questioning the forces that shape our world. My mission? To leverage the power of data to challenge the status quo and foster a more equitable society.
+Driven by Kantian reason and Foucauldian critique of power structures, aiming to leverage data for a more equitable future.
 
-When I'm not immersed in data, you’ll find me pondering life’s big questions—or hanging out with my furry co-pilot!
+When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, LiLi, as my navigator! 🐶
 
 ## 📚 Recent Projects:
 - [Small-Cap Scout Backend](https://github.com/cnance09/Small-Cap-Scout) A financial data analysis and prediction platform
 - [Small-Cap Scout Frontend](https://github.com/dda-oo/smallcap-scout-project) User-facing dashboard for stock analysis and prediction
 - [Live App](https://smallcap-scout-project.streamlit.app/) Try the project live and explore stock predictions
-
-## 🌱 Currently Exploring:
-- Advanced Machine Learning techniques
-- Predictive analytics and data-driven decision making
-
-## 🔍 What I’m Looking For:
-I’m seeking new challenges in Data Analytics, Data Science, Business Intelligence, and Data Engineering. I bring not just a passion for data but also years of business experience and process optimization. I’m particularly interested in roles that let me combine data analysis with human-centered design.
 
 ## 💬 Let’s Talk About:
 - Data Analytics & Business Insights
