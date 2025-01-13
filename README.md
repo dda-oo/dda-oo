@@ -44,7 +44,7 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, LiLi,
 </div>
 
 ## 📫 How to Reach Me:
-- Email: dehestani.d@gmail.com
+- [LinkedIn Profile](https://www.linkedin.com/in/daryooshdehestani/)
 
 ## ⚡ Fun Fact:
 You'd be hard-pressed to tell if I'm being serious!
