@@ -5,7 +5,7 @@ Data scientist with a unique blend of philosophy, politics, and economics. Apply
 
 Driven by Kantian reason and Foucauldian critique of power structures, aiming to leverage data for a more equitable future.
 
-When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, LiLi, as my navigator! 🐶
+When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my navigator! 🐶
 
 ## 📚 Recent Projects:
 - [Small-Cap Scout Backend](https://github.com/cnance09/Small-Cap-Scout) A financial data analysis and prediction platform
