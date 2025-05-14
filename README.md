@@ -55,21 +55,8 @@ You'd be hard-pressed to tell if I'm being serious!
 
 ## GitHub Stats
 
-![Daryoosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dda-oo&show_icons=true&count_private=true&hide_rank=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dda-oo&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=dda-oo)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dda-oo&theme=github-compact)
-
-## Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/dda-oo/dda-oo/output/github-contribution-grid-snake.svg)
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
