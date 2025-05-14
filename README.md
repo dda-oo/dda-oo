@@ -53,10 +53,5 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 ## ⚡ Fun Fact:
 You'd be hard-pressed to tell if I'm being serious!
 
-## GitHub Stats
-
+## 📊 Code Footprint
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dda-oo&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=dda-oo)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dda-oo&theme=github-compact)
