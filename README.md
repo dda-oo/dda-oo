@@ -52,3 +52,17 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 
 ## ⚡ Fun Fact:
 You'd be hard-pressed to tell if I'm being serious!
+
+## GitHub Stats
+
+![Daryoosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dda-oo&show_icons=true&count_private=true&hide_rank=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dda-oo&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=dda-oo)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=dda-oo&theme=github-compact)
+
+## Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/dda-oo/dda-oo/output/github-contribution-grid-snake.svg)
+
