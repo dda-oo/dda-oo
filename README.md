@@ -67,6 +67,9 @@ You'd be hard-pressed to tell if I'm being serious!
 ![Snake animation](https://raw.githubusercontent.com/dda-oo/dda-oo/output/github-contribution-grid-snake.svg)
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/dda-oo/dda-oo/blob/output/github-contribution-grid-snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
