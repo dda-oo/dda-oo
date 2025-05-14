@@ -11,10 +11,10 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 - [Employee Psychology Bot](#) *(Internal Project)* – This AI bot monitors employees' daily emotional states, detecting early signs of psychological stress and triggering timely support interventions. Aiming to promote mental well-being in the workplace through proactive care.
 - [Tailored Training AI Bot](#) *(Internal Project)* – This AI bot recommends personalized training opportunities to employees based on their characteristics, job profiles, interests, and other relevant data. Designed to optimize employee development by offering targeted learning paths for growth and skill enhancement.
 - [CEWE Bot Backend](https://github.com/dda-oo/cw-bot) A modular chatbot designed to automate recurring tasks and routine interactions
-- [CEWE Bot Live App](https://cw-bot-3fjz2jmwu65656.streamlit.app/) An intuitive, responsive interface for seamless user interaction, enabling efficient task management and automated conversations. (Currently a MAAP Project)
+- [CEWE Bot App](https://cw-bot-3fjz2jmwu65656.streamlit.app/) An intuitive, responsive interface for seamless user interaction, enabling efficient task management and automated conversations. (Currently a MAAP Project)
 - [Small-Cap Scout Backend](https://github.com/cnance09/Small-Cap-Scout) A financial data analysis and prediction platform
 - [Small-Cap Scout Frontend](https://github.com/dda-oo/smallcap-scout-project) User-facing dashboard for stock analysis and prediction
-- [Small-Cap Scout Live App](https://smallcap-scout-project.streamlit.app/) Try the project live and explore stock predictions
+- [Small-Cap Scout App](https://smallcap-scout-project.streamlit.app/) Try the project live and explore stock predictions
 
 ## 💬 Let’s Talk About:
 - Data Analytics & Business Insights
