@@ -1,13 +1,16 @@
-
 # Hi there 👋, I'm Daryoosh!
 
-Data scientist with a unique blend of philosophy, politics, and economics. Applying AI and data engineering to tackle real-world problems. 
+I'm a **data scientist** and **data analyst** with a unique blend of **philosophy, politics, and economics**. I apply **AI**, **data engineering**, and **automation** solve real-world business challenges and enhance organizational performance.
 
 Driven by Kantian reason and Foucauldian critique of power structures, aiming to leverage data for a more equitable future.
 
 When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my navigator! 🐶
 
 ## 📚 Recent Projects:
+
+- ### 🧠 Burnout Prediction Model
+Developed a machine learning model using HRIS data to identify early signs of employee burnout—supporting proactive well-being interventions and workload planning.
+
 - [Small-Cap Scout Backend](https://github.com/cnance09/Small-Cap-Scout) A financial data analysis and prediction platform
 - [Small-Cap Scout Frontend](https://github.com/dda-oo/smallcap-scout-project) User-facing dashboard for stock analysis and prediction
 - [Live App](https://smallcap-scout-project.streamlit.app/) Try the project live and explore stock predictions
