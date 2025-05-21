@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Daryoosh!
 
-I'm a **data scientist** and **data analyst** with a unique blend of **philosophy, politics, and economics**. I apply **AI**, **data engineering**, and **automation** solve real world business challenges and enhance organizational performance.
+I'm a **Data Scientist** and **AI & Business Intelligence (BI) Expert** with a unique background in **Philosophy, Politics, and Economics (PPE)**.  
+
+I apply **AI**, **data engineering**, and **automation** to turn complex business data into strategic insights—solving real-world challenges and driving organizational performance.
 
 Driven by Kantian reason and Foucauldian critique of power structures, aiming to leverage data for a more equitable future.
 
