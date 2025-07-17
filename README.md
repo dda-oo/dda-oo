@@ -17,6 +17,8 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 - [Small-Cap Scout Backend](https://github.com/cnance09/Small-Cap-Scout) A financial data analysis and prediction platform.
 - [Small-Cap Scout Frontend](https://github.com/dda-oo/smallcap-scout-project) User-facing dashboard for stock analysis and prediction.
 - [Small-Cap Scout App](https://smallcap-scout-project.streamlit.app/) An interactive app for exploring and visualizing stock performance predictions based on financial data trends.
+- [E-commerce Automation Bots](#) Smart Telegram/WhatsApp agents for sales, inventory, and CRM automation.
+- [Custom Chatbot Ecosystems](#) End-to-end platform development for customer engagement and internal automation.
 
 ## 💬 Let’s Talk About:
 - Data Analytics & Business Insights
