@@ -9,8 +9,8 @@ Driven by Kantian reason and Foucauldian critique of power structures, aiming to
 When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my navigator! 🐶
 
 ## 📚 Recent Projects:
-- [E-commerce Automation Bots](#) Smart Telegram/WhatsApp agents for sales, inventory, and CRM automation.
-- [Custom Chatbot Ecosystems](#) End-to-end platform development for customer engagement and internal automation.
+- [E-commerce Automation Bots](#) *(In-house Project)* – Smart Telegram/WhatsApp agents for sales, inventory, and CRM automation.
+- [Custom Chatbot Ecosystems](#) *(In-house Project)* – End-to-end platform development for customer engagement and internal automation.
 - [Burnout Prediction Model](#) *(In-house Project)* – Developed a machine learning model using HRIS data to identify early signs of employee burnout, supporting proactive well-being interventions and workload planning.
 - [Employee Psychology Bot](#) *(In-house Project)* – This AI bot monitors employees' daily emotional states, detecting early signs of psychological stress and triggering timely support interventions. Aiming to promote mental well-being in the workplace through proactive care.
 - [Tailored Training AI Bot](#) *(In-house Project)* – This AI bot recommends personalized training opportunities to employees based on their characteristics, job profiles, interests, and other relevant data. Designed to optimize employee development by offering targeted learning paths for growth and skill enhancement.
