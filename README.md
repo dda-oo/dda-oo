@@ -41,7 +41,6 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" style="margin: 5px;"/>
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" style="margin: 5px;"/>
-    <img src="https://camo.githubusercontent.com/6ba82d645da10e17a701db0997df23158e7b860b95bdc1444572b4ef92ccba85/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f73716c6974652f73716c6974652d69636f6e2e737667" width="40" height="40" style="margin: 5px;"/>
     <img src="https://cdn.prod.website-files.com/5abc6c4b0a243a2dc939ee6e/5fdb995550a781d7c0c4ec5f_google-bigquery-logo-1.svg" width="40" height="40" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" width="40" height="40" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40" style="margin: 5px;"/>
@@ -49,7 +48,12 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
     <img src="https://www.rensvandeschoot.com/wp-content/uploads/2019/01/spss-1-logo-png-transparent.png" width="40" height="40" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png" width="40" height="40" style="margin: 5px;"/>
     <img src="https://www.r-project.org/logo/Rlogo.png" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://lh3.googleusercontent.com/proxy/NAsPv4kCeDtd2q_cDaaxqM7kp9y7yKW7K35KHtntzIhoG6EHWrC8mLLPRDvPxfcMQyowKjt6JkXTt79g5JNj_BWMtbIqxCRqSPLE" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://www.dbh.de/wp-content/uploads/2020/03/sap-s4-hana-300x300.jpg" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png" width="40" height="40" style="margin: 5px;"/>
+    <img src="https://www.impactory.de/wp-content/uploads/2024/02/Power-Apps-1200x628-1.png" width="40" height="40" style="margin: 5px;"/>
 </div>
+
 
 ## 📫 How to Reach Me:
 - [Website](https://radarroster.com/) – Explore how I transform data into actionable insights for your business
