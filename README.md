@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Daryoosh!
 
-I'm a **Data Scientist** and **AI & Business Intelligence (BI) Expert** with a unique background in **Philosophy, Politics, and Economics (PPE)**.  
+I'm a **AI & Business Intelligence (BI) Expert** and **Data Scientist** with a unique background in **Philosophy, Politics, and Economics (PPE)**.  
 
 I apply **AI**, **data engineering**, and **automation** to turn complex business data into strategic insights—solving real-world challenges and driving organizational performance.
 
@@ -21,8 +21,8 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 - [Small-Cap Scout App](https://smallcap-scout-project.streamlit.app/) An interactive app for exploring and visualizing stock performance predictions based on financial data trends.
 
 ## 💬 Let’s Talk About:
-- Data Analytics & Business Insights
-- AI, Machine Learning, and Model Optimization
+- AI, BI, Machine Learning, and Model Optimization
+- Data Analytics & Business Insights- 
 - Human-Centered Data Solutions
 
 ## 🛠️ Tech Stack & Skills:
