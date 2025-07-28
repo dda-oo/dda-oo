@@ -9,6 +9,7 @@ Driven by Kantian reason and Foucauldian critique of power structures, aiming to
 When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my navigator! 🐶
 
 ## 📚 Recent Projects:
+- [Enterprise AI Agent Framework](#) *(In-house Project)* – Engineered a production-grade generative AI agent with secure RAG pipelines, dynamic function calling, and multi-step reasoning. Enabled autonomous interaction with internal knowledge bases, APIs, and process logic—scalable across departments for intelligent decision automation.
 - [E-commerce Automation Bots](#) *(In-house Project)* – Smart Telegram/WhatsApp agents for sales, inventory, and CRM automation.
 - [Custom Chatbot Ecosystems](#) *(In-house Project)* – End-to-end platform development for customer engagement and internal automation.
 - [Burnout Prediction Model](#) *(In-house Project)* – Developed a machine learning model using HRIS data to identify early signs of employee burnout, supporting proactive well-being interventions and workload planning.
