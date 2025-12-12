@@ -58,7 +58,6 @@ When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my
 
 
 ## 📫 How to Reach Me:
-- [Website](https://radarroster.com/) – Explore how I transform data into actionable insights for your business
 - [LinkedIn](https://www.linkedin.com/in/daryooshdehestani/) – Connect with me professionally
 
 ## ⚡ Fun Fact:
