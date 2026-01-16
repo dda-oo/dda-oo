@@ -34,5 +34,4 @@ Business inquiries: message me on LinkedIn to discuss scope and fit.
 ## Code Footprint
 Public GitHub activity snapshot. Overall delivery impact, including private work, is reflected in the highlights above.
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dda-oo&theme=github)
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dda-oo&theme=github)
