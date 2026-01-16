@@ -1,15 +1,18 @@
 # Daryoosh Dehestani
-Founder, RadarRoster · AI & Data Intelligence Consulting
+AI & Business Intelligence (BI) Expert · Data Scientist
 
-I help public sector and enterprise teams turn data into decision-ready intelligence through AI strategy, data engineering, and automation. My focus is practical delivery: clear roadmaps, production-ready systems, and measurable outcomes.
+I'm an AI & Business Intelligence (BI) Expert and Data Scientist with a unique background in Philosophy, Politics, and Economics (PPE).
 
-## What I Do
-- AI strategy and intelligent agents for decision support and automation
-- Data engineering and analytics (pipelines, warehouses, dashboards)
-- Workflow automation and system modernization
+I apply AI, data engineering, and automation to turn complex business data into strategic insights—solving real-world challenges and driving organizational performance.
 
-## RadarRoster
-RadarRoster partners with teams to transform complex data into a strategic advantage. We deliver end-to-end engagement—from strategy to implementation to enablement—built on transparency and a hands-on, co-creative approach.
+Driven by Kantian reason and Foucauldian critique of power structures, aiming to leverage data for a more equitable future.
+
+When I'm not mining data, I'm exploring the cosmos with my furry co-pilot, as my navigator! 🐶
+
+## How I Work
+- Strategy-to-delivery engagements with measurable outcomes
+- Production-ready AI systems, analytics, and automation
+- Transparent, hands-on collaboration with leadership and teams
 
 **Highlights:** 20+ successful projects · 15+ AI technologies · 100k+ data points processed · 100% client satisfaction
 
@@ -32,7 +35,6 @@ AI & data strategy · HR analytics · automation · enterprise dashboards · pub
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/daryooshdehestani/)
-- RadarRoster: https://radarroster.com
 
 ## Code Footprint
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dda-oo&layout=compact&hide_border=true&cache_seconds=1800)
+Core languages and tools: Python · JavaScript · SQL · Pandas · scikit-learn · Docker · GCP/Azure
