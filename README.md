@@ -2,7 +2,7 @@
 
 AI and data specialist with a background in Philosophy, Politics, and Economics. I build production systems that turn enterprise data into decisions.
 
-## Open Source
+## Featured Open Source
 
 [SAP Journal Auditor](https://github.com/dda-oo/sap-journal-auditor) | [ClawHub](https://clawhub.ai/dda-oo/sap-journal-auditor)  
 AI agent for SAP journal entry audit and anomaly detection. Built on OpenClaw for autonomous financial control analysis.
@@ -15,10 +15,11 @@ Retention risk scoring and workforce signal analysis.
 
 ## Client Work
 
-ERP integration, financial automation, market intelligence, sales ops agents, and workforce analytics across enterprise and public sector.
+ERP integration, HR/financial automation, market intelligence, sales ops agents, and workforce analytics.
 
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/daryooshdehestani/)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dda-oo&theme=github)
+
