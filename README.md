@@ -15,6 +15,13 @@ I lead strategy-to-delivery engagements, build production-ready AI systems and a
 **Outcomes:** Decision-ready dashboards, automated workflows, and early-warning signals that drive faster, safer decisions.
 
 ## Featured Open Source
+
+### 🔍 SAP Journal Auditor — AI-Powered Audit Intelligence
+**[GitHub](https://github.com/dda-oo/sap-journal-auditor)** · **[ClawHub AI](https://clawhub.ai/dda-oo/sap-journal-auditor)**  
+Enterprise-grade AI agent for SAP journal entry audit and anomaly detection. Built with OpenClaw to deliver autonomous financial control analysis at scale — combining deep ERP expertise with cutting-edge AI orchestration.
+
+---
+
 **[HR-Intelligence-Hub](https://github.com/dda-oo/HR-Intelligence-Hub)** · Live demo: https://dda-oo.github.io/HR-Intelligence-Hub/  
 Flagship HR analytics hub built for continuous enrichment and real-world adoption.
 
