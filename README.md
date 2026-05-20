@@ -1,6 +1,6 @@
 # Daryoosh Dehestani
 
-AI and data specialist with a background in Philosophy, Politics, and Economics. I build production systems that turn enterprise data into decisions.
+AI & Data Strategist with a background in Philosophy, Politics, and Economics. I build production systems that turn enterprise data into decisions.
 
 ## Featured Open Source
 
